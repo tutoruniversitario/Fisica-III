@@ -71,7 +71,7 @@ Lo que necesitamos ahora es una solución para la ecuación (5), es decir, una f
 
 La solución general de la ecuación diferencial es:
 
-$$x(t) = c_1 \cos(\omega t) + c_2 \operatorname{sen}(\omega t) \tag{6}$$
+$$x(t) = c_1 \cos(\omega t) + c_2 \sin(\omega t) $$          (6)
 
 donde $c_1$ y $c_2$ son constantes arbitrarias. Se determinan por las condiciones iniciales.
 
