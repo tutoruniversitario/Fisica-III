@@ -2,28 +2,28 @@
 ## OSCILACIONES Y ONDAS PARA ESTUDIANTES DE INGENIERÍA, CIENCIA Y TECNOLOGÍA
 ### MOVIMIENTO ARMÓNICO SIMPLE
 
-**Puerto La Cruz, enero de 2005.**
+**Puerto La Cruz, Noviembre de 2026.**
 
 ---
 
 ## Contenido
 
-* Contenido (pág. 2)
-* Movimiento de un objeto unido a un resorte (pág. 3)
-* Partícula en movimiento armónico simple. EJERCICIOS (pág. 4, 6)
-* Posición, velocidad y aceleración en función del tiempo. EJERCICIOS (pág. 9, 12)
-  * Inicialmente está en el extremo derecho (inferior) de la trayectoria con velocidad nula ($\phi = 0$) (pág. 12)
-  * Inicialmente está en el extremo izquierdo (superior) de la trayectoria con velocidad nula ($\phi = -\pi$) (pág. 14)
-  * Inicialmente está en el punto de equilibrio y se desplaza hacia la derecha (abajo) ($\phi = -\pi/2$) (pág. 14)
-  * Inicialmente está en el punto de equilibrio y se desplaza hacia la izquierda (arriba) ($\phi = \pi/2$) (pág. 14)
-  * Inicialmente no está en el extremo de la trayectoria ni tiene velocidad inicial nula (pág. 15)
-* Elongación máxima, velocidad máxima y aceleración máxima. EJERCICIOS (pág. 17, 18)
-* Relación entre posición, velocidad y aceleración. EJERCICIOS (pág. 21, 23)
-* Problemas que involucran gráficas (pág. 24)
-  * Conocida la ecuación del movimiento (pág. 26)
-* El péndulo. EJERCICIOS (pág. 28, 31)
-* Circuitos LC. EJERCICIOS (pág. 32, 35)
-* Energía del oscilador armónico simple. EJERCICIOS (pág. 37, 39)
+* Contenido
+* Movimiento de un objeto unido a un resorte
+* Partícula en movimiento armónico simple. EJERCICIOS
+* Posición, velocidad y aceleración en función del tiempo. EJERCICIOS
+  * Inicialmente está en el extremo derecho (inferior) de la trayectoria con velocidad nula ($\phi = 0$)
+  * Inicialmente está en el extremo izquierdo (superior) de la trayectoria con velocidad nula ($\phi = -\pi$)
+  * Inicialmente está en el punto de equilibrio y se desplaza hacia la derecha (abajo) ($\phi = -\pi/2$)
+  * Inicialmente está en el punto de equilibrio y se desplaza hacia la izquierda (arriba) ($\phi = \pi/2$)
+  * Inicialmente no está en el extremo de la trayectoria ni tiene velocidad inicial nula
+* Elongación máxima, velocidad máxima y aceleración máxima. EJERCICIOS
+* Relación entre posición, velocidad y aceleración. EJERCICIOS
+* Problemas que involucran gráficas
+  * Conocida la ecuación del movimiento
+* El péndulo. EJERCICIOS
+* Circuitos LC. EJERCICIOS
+* Energía del oscilador armónico simple. EJERCICIOS
 
 *Física III. Ing. Willians Medina.*
 
