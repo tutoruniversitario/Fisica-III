@@ -37,15 +37,15 @@ Como un modelo de movimiento armónico simple considere un bloque de masa $m$ un
 
 Se puede entender cualitativamente el movimiento oscilatorio del bloque en la figura 1 al recordar primero que, cuando el bloque se desplaza a una posición $x$, el resorte ejerce sobre el bloque una fuerza que es proporcional a la posición y se conoce por la ley de Hooke:
 
-$$F_s = -k x$$ (1)
+$$F_s = -k\,x$$ (1)
 
 A $F_s$ se le llama fuerza restauradora porque siempre se dirige hacia la posición de equilibrio y, en consecuencia, es opuesta al desplazamiento del bloque desde el equilibrio. Es decir, cuando el bloque se desplaza hacia la derecha de x = 0 en la figura 1a, la posición es positiva y la fuerza restauradora se dirige hacia la izquierda. La figura 1b muestra al bloque en $x = 0$, donde la fuerza en el bloque es cero. Cuando el bloque se desplaza a la izquierda de $x = 0$, como en la figura 1c, la posición es negativa y la fuerza restauradora se dirige hacia la derecha.
 
-Al aplicar la segunda ley de Newton al movimiento del bloque, con la ecuación 1 que proporciona la fuerza neta en la dirección $x$, se obtiene:
+Al aplicar la segunda ley de Newton al movimiento del bloque, con la ecuación 1 que proporciona la fuerza neta en la dirección x, se obtiene:
 
 $$-k x = m a_x$$
 
-$$a_x = -\frac{k}{m} x \tag{2}$$
+$$a_x = -\frac{k}{m} x$$ (2)
 
 Es decir, la aceleración del bloque es proporcional a su posición, y la dirección de la aceleración es opuesta a la dirección del desplazamiento del bloque desde el equilibrio. Se dice que los sistemas que se comportan de esta forma exhiben movimiento armónico simple. Un objeto se mueve con movimiento armónico simple siempre que su aceleración es proporcional a su posición y se dirige en sentido opuesto al desplazamiento desde el equilibrio.
 
