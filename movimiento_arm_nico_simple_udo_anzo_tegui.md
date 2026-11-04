@@ -41,7 +41,7 @@ Como un modelo de movimiento armónico simple considere un bloque de masa $m$ un
 
 Se puede entender cualitativamente el movimiento oscilatorio del bloque al recordar primero que, cuando el bloque se desplaza a una posición $x$, el resorte ejerce sobre el bloque una fuerza que es proporcional a la posición y se conoce por la ley de Hooke:
 
-$$\displaystyle F_s = -k x \tag{\textbf{\color{red}(1)}}$$
+$$\displaystyle F_s = -k x \tag{\textbf{\color{red}1}}$$
 
 A $F_s$ se le llama fuerza restauradora porque siempre se dirige hacia la posición de equilibrio y, en consecuencia, es opuesta al desplazamiento del bloque desde el equilibrio. Es decir, cuando el bloque se desplaza hacia la derecha de $x = 0$, la posición es positiva y la fuerza restauradora se dirige hacia la izquierda. La figura muestra al bloque en $x = 0$, donde la fuerza en el bloque es cero. Cuando el bloque se desplaza a la izquierda de $x = 0$, la posición es negativa y la fuerza restauradora se dirige hacia la derecha.
 
@@ -49,7 +49,7 @@ Al aplicar la segunda ley de Newton al movimiento del bloque, con la ecuación $
 
 $$\displaystyle -k x = m a_x$$
 
-$$\displaystyle a_x = -\frac{k}{m} x \tag{\textbf{\color{red}(2)}}$$
+$$\displaystyle a_x = -\frac{k}{m} x \tag{\textbf{\color{red}2}}$$
 
 Es decir, la aceleración del bloque es proporcional a su posición, y la dirección de la aceleración es opuesta a la dirección del desplazamiento del bloque desde el equilibrio. Se dice que los sistemas que se comportan de esta forma exhiben movimiento armónico simple. Un objeto se mueve con movimiento armónico simple siempre que su aceleración es proporcional a su posición y se dirige en sentido opuesto al desplazamiento desde el equilibrio.
 
@@ -64,15 +64,15 @@ Si el bloque se desplaza a una posición $x = A$ y se libera desde el reposo, su
 
 El movimiento descrito en la sección precedente se presenta con tanta frecuencia que se considera el modelo de partícula en movimiento armónico simple para representar tales situaciones. Con el fin de elaborar una representación matemática para este modelo, primero se reconoce que el bloque es una partícula bajo una fuerza neta, como se describe en la ecuación $\mathbf{\color{red}(1)}$. Por lo general se elegirá $x$ como el eje a lo largo del que se presenta la oscilación; por eso, en esta explicación se eliminará la notación de subíndice $x$. Recuerde que, por definición, $a = \frac{d v}{d t} = \frac{d^2 x}{d t^2}$, y así la ecuación se puede expresar como:
 
-$$\displaystyle \frac{d^2 x}{d t^2} = -\frac{k}{m} x \tag{\textbf{\color{red}(3)}}$$
+$$\displaystyle \frac{d^2 x}{d t^2} = -\frac{k}{m} x \tag{\textbf{\color{red}4}}$$
 
 Si la relación $\frac{k}{m}$ se indica con el símbolo $\omega^2$ (se elige $\omega^2$ en lugar de $\omega$ para que la solución que se desarrolle a continuación sea más simple en forma), en tal caso:
 
-$$\displaystyle \omega^2 = \frac{k}{m} \tag{\textbf{\color{red}(4)}}$$
+$$\displaystyle \omega^2 = \frac{k}{m} \tag{\textbf{\color{red}4}}$$
 
 y la ecuación $\mathbf{\color{red}(3)}$ se puede escribir en la forma:
 
-$$\displaystyle \frac{d^2 x}{d t^2} = -\omega^2 x \tag{\textbf{\color{red}(5)}}$$
+$$\displaystyle \frac{d^2 x}{d t^2} = -\omega^2 x \tag{\textbf{\color{red}5}}$$
 
 Lo que necesitamos ahora es una solución para la ecuación $\mathbf{\color{red}(5)}$, es decir, una función $x(t)$ que satisfaga esta ecuación diferencial de segundo orden.
 
