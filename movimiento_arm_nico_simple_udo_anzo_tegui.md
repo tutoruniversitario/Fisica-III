@@ -173,7 +173,7 @@ Podemos obtener la rapidez de una partícula que experimenta un movimiento armó
 
 $$v(t) = \frac{dx}{dt}$$
 
-$$v(t) = -\omega A \operatorname{sen}(\omega t + \phi) \tag{14}$$
+$$v(t) = -\omega A \sin(\omega t + \phi) \tag{14}$$
 
 **Aceleración de la partícula en función del tiempo:**
 
@@ -197,21 +197,21 @@ Si el cuerpo se desplaza una posición $x_0$ hacia abajo (estirando el resorte) 
 
 Suponga que la posición inicial $x_0$ y la velocidad inicial $v_0$ de un solo oscilador están dadas, es decir, en $t = 0$, $x = x_0$ y $v = v_0$. Obtenemos $c_1 = x_0$ y $c_2 = \frac{v_0}{\omega}$. La ecuación (6) se escribe como:
 
-$$x(t) = x_0 \cos(\omega t) + \frac{v_0}{\omega} \operatorname{sen}(\omega t) \tag{16}$$
+$$x(t) = x_0 \cos(\omega t) + \frac{v_0}{\omega} \sin(\omega t) \tag{16}$$
 
 Al desarrollar la ecuación (7):
 
-$$x(t) = A \cos(\omega t) \cos \phi - A \operatorname{sen}(\omega t) \operatorname{sen} \phi \tag{17}$$
+$$x(t) = A \cos(\omega t) \cos \phi - A \sin(\omega t) \sin \phi \tag{17}$$
 
 Comparando las ecuaciones (16) y (17), tenemos:
 
 $$A \cos \phi = x_0 \tag{18}$$
 
-$$-A \operatorname{sen} \phi = \frac{v_0}{\omega} \tag{19}$$
+$$-A \sin \phi = \frac{v_0}{\omega} \tag{19}$$
 
-Elevamos al cuadrado, sumamos cada ecuación y usando la identidad $\cos^2 \phi + \operatorname{sen}^2 \phi = 1$, tenemos:
+Elevamos al cuadrado, sumamos cada ecuación y usando la identidad $\cos^2 \phi + \sin^2 \phi = 1$, tenemos:
 
-$$x_0^2 + \left(\frac{v_0}{\omega}\right)^2 = A^2 \cos^2 \phi + A^2 \operatorname{sen}^2 \phi = A^2$$
+$$x_0^2 + \left(\frac{v_0}{\omega}\right)^2 = A^2 \cos^2 \phi + A^2 \sin^2 \phi = A^2$$
 
 Eligiendo la raíz cuadrada positiva para $A$ obtenemos:
 
@@ -219,7 +219,7 @@ $$A = \sqrt{x_0^2 + \left(\frac{v_0}{\omega}\right)^2} \tag{20}$$
 
 El ángulo $\phi$ se llama ángulo de fase, y puede determinarse dividiendo la ecuación (19) entre la ecuación (18), para obtener:
 
-$$\frac{-A \operatorname{sen} \phi}{A \cos \phi} = \frac{\frac{v_0}{\omega}}{x_0}$$
+$$\frac{-A \sin \phi}{A \cos \phi} = \frac{\frac{v_0}{\omega}}{x_0}$$
 
 $$-\tan \phi = \frac{v_0}{\omega x_0}$$
 
@@ -250,7 +250,7 @@ $$\phi = \tan^{-1}\left(-\frac{v_0}{\omega x_0}\right) \quad \text{y} \quad \phi
 
 elegir como ángulo de fase el que cumpla las condiciones:
 * El signo de $\cos \phi$ coincide con el signo de $x_0$ y
-* El signo de $\operatorname{sen} \phi$ coincide con el signo opuesto de $v_0$.
+* El signo de $\sin \phi$ coincide con el signo opuesto de $v_0$.
 
 ---
 
@@ -277,12 +277,12 @@ c) ¿En qué tiempos la masa pasa por la posición de equilibrio?
 20) Una partícula describe un movimiento armónico simple con una frecuencia de $10\text{ Hz}$ y una amplitud de $5\text{ cm}$. Calcular:  
 a) Las funciones de la elongación y de la velocidad de la partícula si para $t = 0$ está en la posición $x = +5\text{ cm}$.  
 b) La aceleración para $t = 2\text{ s}$.  
-*Respuesta:* a) $x(t) = 0.05 \cos(20\pi t)\text{ m}$, $v(t) = -\pi \operatorname{sen}(20\pi t)\text{ m/s}$; b) $a(2\text{ s}) = 197.39\text{ m/s}^2$
+*Respuesta:* a) $x(t) = 0.05 \cos(20\pi t)\text{ m}$, $v(t) = -\pi \sin(20\pi t)\text{ m/s}$; b) $a(2\text{ s}) = 197.39\text{ m/s}^2$
 
 21) Una partícula describe un movimiento armónico simple con un período de $2\text{ s}$ y una amplitud de $25\text{ cm}$. Calcular:  
 a) Las funciones de la elongación y de la velocidad de la partícula si para $t = 0$ está en la posición $x = +25\text{ cm}$.  
 b) La aceleración para $t = 3\text{ s}$.  
-*Respuesta:* a) $x(t) = 0.25 \cos(\pi t)\text{ m}$, $v(t) = -0.25\pi \operatorname{sen}(\pi t)\text{ m/s}$; b) $a(3\text{ s}) = 2.47\text{ m/s}^2$
+*Respuesta:* a) $x(t) = 0.25 \cos(\pi t)\text{ m}$, $v(t) = -0.25\pi \sin(\pi t)\text{ m/s}$; b) $a(3\text{ s}) = 2.47\text{ m/s}^2$
 
 22) Estiramos un resorte $5\text{ cm}$ y lo dejamos oscilar libremente resultando que completa una oscilación cada $0.2\text{ s}$. Calcular:  
 a) La función que nos permite calcular su posición en función del tiempo.  
@@ -299,10 +299,10 @@ c) La posición de la partícula a los $1.5\text{ segundos}$.
 a) Las funciones de la elongación, la velocidad y la aceleración.  
 b) Su posición y velocidad cuando $t = 2.5\text{ s}$.  
 c) Su aceleración cuando $t = 3\text{ s}$.  
-*Respuesta:* a) $x(t) = 0.30 \cos(\pi t)$; $v(t) = -0.30\pi \operatorname{sen}(\pi t)$; $a(t) = -0.30\pi^2 \cos(\pi t)$; b) $x(2.5\text{ s}) = 0$; $v(2.5\text{ s}) = -0.94\text{ m/s}$; c) $a(3\text{ s}) = +2.96\text{ m/s}^2$
+*Respuesta:* a) $x(t) = 0.30 \cos(\pi t)$; $v(t) = -0.30\pi \sin(\pi t)$; $a(t) = -0.30\pi^2 \cos(\pi t)$; b) $x(2.5\text{ s}) = 0$; $v(2.5\text{ s}) = -0.94\text{ m/s}$; c) $a(3\text{ s}) = +2.96\text{ m/s}^2$
 
 25) Una partícula de $10\text{ kg}$ de masa está sujeta a un muelle de constante elástica de $10\text{ N/m}$. En el instante inicial se desplaza $0.5\text{ m}$ de la posición de equilibrio y se suelta con velocidad nula. Representa la elongación y la velocidad frente al tiempo.  
-*Respuesta:* $x(t) = 0.5 \cos t$, $v(t) = -0.5 \operatorname{sen} t$
+*Respuesta:* $x(t) = 0.5 \cos t$, $v(t) = -0.5 \sin t$
 
 26) Se cuelga un objeto de $200\text{ g}$ de un muelle sujeto al techo de $35\text{ cm}$ de longitud y su nueva longitud es de $45\text{ cm}$.  
 a) Determinar la constante de elasticidad $k$ del muelle.  
@@ -319,7 +319,7 @@ b) Su posición para $t = 1.5\text{ s}$ si, para que empiece a vibrar, levantamo
 #### Inicialmente está en el punto de equilibrio y se desplaza hacia la derecha (abajo) ($\phi = -\pi/2$).
 
 28) Un M.A.S. tiene una frecuencia de $5\text{ Hz}$ y una amplitud de $8\text{ mm}$. En el instante $t = 0$, el móvil se encuentra en el centro de la vibración y se desplaza en sentido positivo. Expresar su elongación, su velocidad y su aceleración como funciones del tiempo.  
-*Respuesta:* $x(t) = 8 \times 10^{-3} \cos(10\pi t - \pi/2)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -8 \times 10^{-2}\pi \operatorname{sen}(10\pi t - \pi/2)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -0.8\pi^2 \cos(10\pi t - \pi/2)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$
+*Respuesta:* $x(t) = 8 \times 10^{-3} \cos(10\pi t - \pi/2)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -8 \times 10^{-2}\pi \sin(10\pi t - \pi/2)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -0.8\pi^2 \cos(10\pi t - \pi/2)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$
 
 #### Inicialmente está en el punto de equilibrio y se desplaza hacia la izquierda (arriba) ($\phi = \pi/2$).
 
@@ -356,7 +356,7 @@ Determine la ecuación del movimiento si la masa del problema 3 al inicio se lib
 36) La punta de la aguja de una máquina de coser se mueve en MAS sobre el eje x con una frecuencia de $2.5\text{ Hz}$. En $t = 0$, sus componentes de posición y velocidad son $+1.1\text{ cm}$ y $-15.00\text{ cm/s}$.  
 a) Calcule la componente de aceleración de la aguja en $t = 0$.  
 b) Escriba ecuaciones para las componentes de posición, velocidad y aceleración de la punta en función del tiempo.  
-*Respuesta:* a) $a = -2.71\text{ m/s}^2$; b) $x(t) = 0.0146 \cos(15.71t + 0.7149)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -0.23 \operatorname{sen}(15.71t + 0.7149)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -3.61 \cos(15.71t + 0.7149)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$
+*Respuesta:* a) $a = -2.71\text{ m/s}^2$; b) $x(t) = 0.0146 \cos(15.71t + 0.7149)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -0.23 \sin(15.71t + 0.7149)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -3.61 \cos(15.71t + 0.7149)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$
 
 37) Una masa que pesa $2\text{ lb}$ alarga un resorte $6\text{ pulgadas}$. En $t = 0$ se libera la masa desde un punto que está $8\text{ pulgadas}$ debajo de la posición de equilibrio con una velocidad ascendente de $4/3\text{ pie/s}$. Determine la ecuación de movimiento.  
 *Respuesta:* $x(t) = 0.6871 \cos(8.02t + 0.2444)$, $x = [\text{ft}]$, $t = [\text{s}]$
@@ -387,7 +387,7 @@ b) Determine la rapidez máxima del bloque.
 c) ¿Cuál es la aceleración máxima del bloque?  
 d) Exprese la posición, velocidad y aceleración como funciones del tiempo.  
 e) ¿Y si el bloque se libera desde la misma posición inicial, $x_0 = 5.00\text{ cm}$, pero con una velocidad inicial de $v_0 = -0.100\text{ m/s}$? ¿Qué partes de la solución cambian y cuáles son las nuevas respuestas para estas?  
-*Respuesta:* a) $T = 1.26\text{ s}$; b) $v_{\max} = 0.25\text{ m/s}$; c) $a_{\max} = 1.25\text{ m/s}^2$; d) $x(t) = 0.05 \cos(5t)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -0.25 \operatorname{sen}(5t)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -1.25 \cos(5t)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$; e) a) $T = 1.26$; d) $x(t) = 0.0539 \cos(5t + 0.3805)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -0.2695 \operatorname{sen}(5t + 0.3805)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -1.3475 \cos(5t + 0.3805)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$
+*Respuesta:* a) $T = 1.26\text{ s}$; b) $v_{\max} = 0.25\text{ m/s}$; c) $a_{\max} = 1.25\text{ m/s}^2$; d) $x(t) = 0.05 \cos(5t)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -0.25 \sin(5t)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -1.25 \cos(5t)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$; e) a) $T = 1.26$; d) $x(t) = 0.0539 \cos(5t + 0.3805)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -0.2695 \sin(5t + 0.3805)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -1.3475 \cos(5t + 0.3805)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$
 
 39) Una cuerda de guitarra vibra con una frecuencia de $440\text{ Hz}$. Un punto en su centro se mueve en M.A.S con amplitud de $3.0\text{ mm}$ y ángulo de fase cero. a) Escriba una ecuación para la posición del centro de la cuerda en función del tiempo. b) ¿Qué magnitud máxima tienen: la velocidad y la aceleración del centro de la cuerda? c) La derivada de la aceleración respecto al tiempo es una cantidad llamada tirón. Escriba una ecuación para el tirón del centro de la cuerda en función del tiempo, y calcule el valor máximo de la magnitud del tirón.  
 *Respuesta:* a) $x(t) = 0.003 \cos(2764.60t)$; b) $v_{\max} = 8.29\text{ m/s}$, $a_{\max} = 22926.06\text{ m/s}^2$
@@ -467,15 +467,15 @@ $$x(t) = A \cos(\omega t + \phi) \tag{7}$$
 
 Rapidez en función del tiempo:
 
-$$v(t) = -\omega A \operatorname{sen}(\omega t + \phi) \tag{14}$$
+$$v(t) = -\omega A \sin(\omega t + \phi) \tag{14}$$
 
-Al despejar $\cos(\omega t + \phi)$ de la ecuación (7) y $\operatorname{sen}(\omega t + \phi)$ de la ecuación (14):
+Al despejar $\cos(\omega t + \phi)$ de la ecuación (7) y $\sin(\omega t + \phi)$ de la ecuación (14):
 
 $$\cos(\omega t + \phi) = \frac{x(t)}{A}$$
 
-$$\operatorname{sen}(\omega t + \phi) = -\frac{v(t)}{\omega A}$$
+$$\sin(\omega t + \phi) = -\frac{v(t)}{\omega A}$$
 
-Siendo $\cos^2(\omega t + \phi) + \operatorname{sen}^2(\omega t + \phi) = 1$, se tiene:
+Siendo $\cos^2(\omega t + \phi) + \sin^2(\omega t + \phi) = 1$, se tiene:
 
 $$\left(\frac{x}{A}\right)^2 + \left(\frac{v}{\omega A}\right)^2 = 1$$
 
@@ -558,7 +558,7 @@ a) Cada dos segundos el cuerpo está en el mismo estado vibracional.
 b) El período del movimiento vale 4 segundos.  
 c) El movimiento tiene una amplitud de 6 m.  
 d) La frecuencia del movimiento es de 0.25 Hz.  
-e) La ecuación del movimiento es $x(t) = 3 \operatorname{sen}(\frac{\pi}{2}t)\text{ cm}$.  
+e) La ecuación del movimiento es $x(t) = 3 \sin(\frac{\pi}{2}t)\text{ cm}$.  
 *Respuesta:* a) Falso; b) Verdadero; c) Falso; d) Verdadero; e) Falso.
 
 62) La gráfica representa la elongación en función del tiempo de un cuerpo que se comporta según un movimiento armónico simple (amplitud entre $5\text{ m}$ y $-5\text{ m}$, puntos en $t = -11, 1, 13\text{ s}$). Determinar la amplitud máxima, el período, la frecuencia, la frecuencia angular y la fase inicial del movimiento.  
@@ -581,9 +581,9 @@ c) El valor y sentido que tendrá la fuerza que actúa sobre el cuerpo en los in
 *Respuesta:* $A = 2\text{ cm}$, $f = 15\text{ Hz}$, $T = 1/15\text{ s}$
 
 66) Sabiendo que un movimiento armónico simple tiene por ecuación:  
-$$x(t) = 0.5 \operatorname{sen}(0.35\pi t + \pi/4)\text{ (m)}$$  
+$$x(t) = 0.5 \sin(0.35\pi t + \pi/4)\text{ (m)}$$  
 Determinar la ecuación y la gráfica de la velocidad y de la aceleración.  
-*Respuesta:* $v(t) = 0.175\pi \cos(0.35\pi t + \pi/4)\text{ m/s}$, $a(t) = -0.06125\pi^2 \operatorname{sen}(0.35\pi t + \pi/4)\text{ m/s}^2$
+*Respuesta:* $v(t) = 0.175\pi \cos(0.35\pi t + \pi/4)\text{ m/s}$, $a(t) = -0.06125\pi^2 \sin(0.35\pi t + \pi/4)\text{ m/s}^2$
 
 67) Calcular la velocidad y aceleración máximas del M.A.S. cuya ecuación es:  
 $$x(t) = 5 \cos(4\pi t + \pi/6)$$  
@@ -606,19 +606,19 @@ en la que $x$ es la elongación en cm y $t$ el tiempo en s.
 a) $\phi_0 = 0$; b) $\phi_0 = \pi/3\text{ rad}$; c) $\phi_0 = \pi/2\text{ rad}$; d) $\phi_0 = \pi\text{ rad}$. e) Representar gráficamente las funciones del tiempo $x-t$, $v-t$ y $a-t$ en cada uno de los incisos a)-d).  
 *Respuesta:* a) $6\text{ cm}$, $0\text{ cm/s}$; b) $3\text{ cm}$, $-25.98\text{ cm/s}$; c) $0\text{ cm}$, $-30\text{ cm/s}$; d) $-6\text{ cm}$, $0\text{ cm/s}$
 
-73) Discutir las diferencias entre los M.A.S. que tienen las siguientes ecuaciones de elongación: a) $x(t) = A \operatorname{sen} t$; b) $x(t) = A \cos t$.
+73) Discutir las diferencias entre los M.A.S. que tienen las siguientes ecuaciones de elongación: a) $x(t) = A \sin t$; b) $x(t) = A \cos t$.
 
 74) La abscisa de un móvil en función del tiempo en s es la función:  
-$$x(t) = 4 \operatorname{sen}(10t) + 3 \cos(10t)\text{ (cm)}$$  
+$$x(t) = 4 \sin(10t) + 3 \cos(10t)\text{ (cm)}$$  
 Expresar su aceleración en función del tiempo y demostrar que se trata de un M.A.S.  
-*Respuesta:* $a(t) = -400 \operatorname{sen}(10t) - 300 \cos(10t)$, $a = [\text{cm/s}^2]$, $t = [\text{s}]$. Se trata de un M.A.S porque $a = -\omega^2 x$.
+*Respuesta:* $a(t) = -400 \sin(10t) - 300 \cos(10t)$, $a = [\text{cm/s}^2]$, $t = [\text{s}]$. Se trata de un M.A.S porque $a = -\omega^2 x$.
 
 75) La velocidad de una masa de $0.500\text{ kg}$ está dada en función del tiempo por:  
-$$v(t) = 3.60 \operatorname{sen}(4.71t - \pi/2)\text{ (m/s)}$$  
+$$v(t) = 3.60 \sin(4.71t - \pi/2)\text{ (m/s)}$$  
 Calcule a) el período, b) la amplitud y c) la aceleración máxima de la masa.  
 *Respuesta:* a) $T = 1.3340\text{ s}$; b) $A = 0.7643\text{ m}$; c) $a_{\max} = 16.956\text{ m/s}^2$
 
-76) La velocidad en $\text{m/s}$ de un M.A.S. es $v(t) = -0.36\pi \operatorname{sen}[\pi(24t + 1)]$ donde $t$ es el tiempo en s. ¿Cuáles son la frecuencia y la amplitud de ese movimiento? Escribir la expresión de su elongación en función del tiempo.  
+76) La velocidad en $\text{m/s}$ de un M.A.S. es $v(t) = -0.36\pi \sin[\pi(24t + 1)]$ donde $t$ es el tiempo en s. ¿Cuáles son la frecuencia y la amplitud de ese movimiento? Escribir la expresión de su elongación en función del tiempo.  
 *Respuesta:* $f = 12\text{ Hz}$, $A = 0.015\text{ m}$, $x(t) = 0.015 \cos[\pi(24t + 1)]$
 
 ---
@@ -629,19 +629,19 @@ El péndulo simple es otro sistema mecánico que muestra movimiento periódico. 
 
 El movimiento se presenta en el plano vertical y es impulsado por la fuerza gravitacional. Se demostrará que, siempre que el ángulo $\theta$ sea pequeño (menor que aproximadamente $10^\circ$), el movimiento es muy cercano al de un oscilador armónico simple.
 
-Las fuerzas que actúan en la plomada son la fuerza $\vec{T}$ que ejerce la cuerda y la fuerza gravitacional $m\vec{g}$. La componente tangencial $m g \operatorname{sen} \theta$ de la fuerza gravitacional siempre actúa hacia $\theta = 0$, opuesta al desplazamiento de la plomada desde la posición más baja. Por lo tanto, la componente tangencial es una fuerza restauradora y se puede aplicar la segunda ley de Newton del movimiento en la dirección tangencial:
+Las fuerzas que actúan en la plomada son la fuerza $\vec{T}$ que ejerce la cuerda y la fuerza gravitacional $m\vec{g}$. La componente tangencial $m g \sin \theta$ de la fuerza gravitacional siempre actúa hacia $\theta = 0$, opuesta al desplazamiento de la plomada desde la posición más baja. Por lo tanto, la componente tangencial es una fuerza restauradora y se puede aplicar la segunda ley de Newton del movimiento en la dirección tangencial:
 
-$$F_t = -m g \operatorname{sen} \theta = m \frac{d^2s}{dt^2} \tag{28}$$
+$$F_t = -m g \sin \theta = m \frac{d^2s}{dt^2} \tag{28}$$
 
 donde $s$ es la posición de la plomada medida a lo largo del arco y el signo negativo indica que la fuerza tangencial actúa hacia la posición de equilibrio (vertical). Ya que $s = L\theta$ y $L$ es constante, esta ecuación se reduce a:
 
-$$\frac{d^2\theta}{dt^2} = -\frac{g}{L} \operatorname{sen} \theta \tag{29}$$
+$$\frac{d^2\theta}{dt^2} = -\frac{g}{L} \sin \theta \tag{29}$$
 
 Al considerar $\theta$ como la posición, y comparar con la ecuación:
 
 $$\frac{d^2x}{dt^2} = -\frac{k}{m} x \tag{30}$$
 
-no se tiene la misma forma matemática. El lado derecho es proporcional a $\operatorname{sen} \theta$ en vez de $\theta$; por eso, no se esperaría movimiento armónico simple porque la ecuación (29) no tiene la forma de la ecuación (30). Sin embargo, si se supone que $\theta$ es pequeño (menor que aproximadamente $10^\circ$ o $0.2\text{ rad}$), se puede usar la aproximación de ángulo pequeño, en la que $\operatorname{sen} \theta \approx \theta$, donde $\theta$ se mide en radianes.
+no se tiene la misma forma matemática. El lado derecho es proporcional a $\sin \theta$ en vez de $\theta$; por eso, no se esperaría movimiento armónico simple porque la ecuación (29) no tiene la forma de la ecuación (30). Sin embargo, si se supone que $\theta$ es pequeño (menor que aproximadamente $10^\circ$ o $0.2\text{ rad}$), se puede usar la aproximación de ángulo pequeño, en la que $\sin \theta \approx \theta$, donde $\theta$ se mide en radianes.
 
 Por lo tanto, para ángulos pequeños, la ecuación de movimiento se convierte en:
 
@@ -687,10 +687,10 @@ El péndulo simple se puede usar como cronómetro porque su período sólo depen
 83) Un niño se columpia con una amplitud de $0.5\text{ m}$. Si en $10\text{ segundos}$ va y vuelve 5 veces. Supuesto un M.A.S., calcular:  
 a) La frecuencia del movimiento.  
 b) La función de la velocidad y la velocidad máxima que alcanza si la fase inicial es nula.  
-*Respuesta:* a) $f = 0.5\text{ Hz}$; b) $v(t) = -0.5\pi \operatorname{sen}(\pi t)$, $v_{\max} = \pm 1.57\text{ m/s}$
+*Respuesta:* a) $f = 0.5\text{ Hz}$; b) $v(t) = -0.5\pi \sin(\pi t)$, $v_{\max} = \pm 1.57\text{ m/s}$
 
 84) Un niño se columpia con una amplitud de $0.5\text{ m}$ en un columpio de $3.0\text{ m}$ de longitud. Calcula: a) El período con el que se columpia. b) Supuesto un M.A.S., la función de la velocidad si la fase inicial es nula.  
-*Respuesta:* $T = 3.47\text{ s}$, $v(t) = -0.904 \operatorname{sen}(1.808t)$
+*Respuesta:* $T = 3.47\text{ s}$, $v(t) = -0.904 \sin(1.808t)$
 
 85) Tenemos un péndulo de $224\text{ cm}$ de largo. Calcula: a) Su período. b) Si entre los dos extremos del movimiento recorre una distancia de $20\text{ cm}$, y para $t = 0$ está en el extremo positivo de la oscilación, calcula su posición para $t = 4.5\text{ s}$.  
 *Respuesta:* a) $T = 3.00\text{ s}$; b) $x(4.5\text{ s}) = -0.1\text{ m}$
@@ -766,7 +766,7 @@ Podemos obtener la intensidad de corriente en el circuito diferenciando la ecuac
 
 $$I(t) = \frac{dQ}{dt}$$
 
-$$I(t) = -Q_{\max} \omega \operatorname{sen}(\omega t + \phi) \tag{43}$$
+$$I(t) = -Q_{\max} \omega \sin(\omega t + \phi) \tag{43}$$
 
 **Corriente máxima:**
 
@@ -819,13 +819,13 @@ b) ¿Cuáles son los valores máximos de carga en el capacitor y la corriente en
 
 Examinemos la energía mecánica del sistema masa-resorte.
 
-Ya que la superficie no tiene fricción, el sistema está aislado y es de esperar que la energía mecánica total del sistema sea constante. Ahora suponga un resorte sin masa, de modo que la energía cinética del sistema sólo corresponde a la del bloque. Se puede usar la ecuación $v(t) = -\omega A \operatorname{sen}(\omega t + \phi)$ para expresar la energía cinética del bloque como:
+Ya que la superficie no tiene fricción, el sistema está aislado y es de esperar que la energía mecánica total del sistema sea constante. Ahora suponga un resorte sin masa, de modo que la energía cinética del sistema sólo corresponde a la del bloque. Se puede usar la ecuación $v(t) = -\omega A \sin(\omega t + \phi)$ para expresar la energía cinética del bloque como:
 
 $$K = \frac{1}{2} m v^2$$
 
-$$K = \frac{1}{2} m \left[-\omega A \operatorname{sen}(\omega t + \phi)\right]^2$$
+$$K = \frac{1}{2} m \left[-\omega A \sin(\omega t + \phi)\right]^2$$
 
-$$K = \frac{1}{2} m \omega^2 A^2 \operatorname{sen}^2(\omega t + \phi) \tag{1}$$
+$$K = \frac{1}{2} m \omega^2 A^2 \sin^2(\omega t + \phi) \tag{1}$$
 
 La energía potencial elástica almacenada en el resorte para cualquier elongación $x$ se conoce por $\frac{1}{2} k x^2$. Si usa la ecuación $x(t) = A \cos(\omega t + \phi)$ produce:
 
@@ -839,15 +839,15 @@ $$E = K + U \tag{3}$$
 
 Al sustituir las ecuaciones (1) y (2) en la ecuación (3):
 
-$$E = \frac{1}{2} m \omega^2 A^2 \operatorname{sen}^2(\omega t + \phi) + \frac{1}{2} k A^2 \cos^2(\omega t + \phi)$$
+$$E = \frac{1}{2} m \omega^2 A^2 \sin^2(\omega t + \phi) + \frac{1}{2} k A^2 \cos^2(\omega t + \phi)$$
 
 Puesto que $\omega^2 = \frac{k}{m}$, entonces $m\omega^2 = k$, por lo tanto:
 
-$$E = \frac{1}{2} k A^2 \operatorname{sen}^2(\omega t + \phi) + \frac{1}{2} k A^2 \cos^2(\omega t + \phi)$$
+$$E = \frac{1}{2} k A^2 \sin^2(\omega t + \phi) + \frac{1}{2} k A^2 \cos^2(\omega t + \phi)$$
 
-$$E = \frac{1}{2} k A^2 \left[\operatorname{sen}^2(\omega t + \phi) + \cos^2(\omega t + \phi)\right]$$
+$$E = \frac{1}{2} k A^2 \left[\sin^2(\omega t + \phi) + \cos^2(\omega t + \phi)\right]$$
 
-A partir de la identidad $\operatorname{sen}^2 \theta + \cos^2 \theta = 1$, se ve que la cantidad entre corchetes es la unidad. En consecuencia, esta ecuación se reduce a:
+A partir de la identidad $\sin^2 \theta + \cos^2 \theta = 1$, se ve que la cantidad entre corchetes es la unidad. En consecuencia, esta ecuación se reduce a:
 
 $$E = \frac{1}{2} k A^2$$
 
@@ -863,39 +863,39 @@ En todo momento, la suma de las energías cinética y potencial es una constante
 a) Calcular el período de las oscilaciones.  
 b) La ecuación del M.A.S.  
 c) Calcular la velocidad, energía cinética, potencial y el (los) instante(s) en el que la partícula pasa por la posición $x = -3\text{ cm}$ dirigiéndose hacia la derecha.  
-*Respuesta:* a) $T = \pi/10\text{ s}$; b) $x(t) = 5.38 \cos(20t + 1.1903)\text{ cm}$, $v(t) = -107.7 \operatorname{sen}(20t + 1.1903)\text{ cm/s}$; c) $v = 0.894\text{ m/s}$, $E_c = 0.2\text{ J}$, $E_p = 0.09\text{ J}$, $E = 0.29\text{ J}$
+*Respuesta:* a) $T = \pi/10\text{ s}$; b) $x(t) = 5.38 \cos(20t + 1.1903)\text{ cm}$, $v(t) = -107.7 \sin(20t + 1.1903)\text{ cm/s}$; c) $v = 0.894\text{ m/s}$, $E_c = 0.2\text{ J}$, $E_p = 0.09\text{ J}$, $E = 0.29\text{ J}$
 
 93) Un muelle horizontal tiene una constante recuperadora de $k = 48\text{ N/m}$. En el extremo del muelle se coloca una masa de $m = 0.75\text{ kg}$ y se estira el muelle $0.2\text{ m}$ a partir de la posición de equilibrio, soltándose a continuación, momento en el que se empieza a contar el tiempo. Hallar:  
 a) El período de la oscilación.  
 b) La ecuación del M.A.S.  
 c) El (los) instante(s) en el (los) que el móvil pasa por la posición $x = -0.1\text{ m}$, después de haber pasado por el origen.  
 d) Los valores de la velocidad, aceleración, energía cinética, potencial y total del móvil en dicho(s) instante(s).  
-*Respuesta:* a) $T = \pi/4\text{ s}$; b) $x(t) = 0.2 \cos(8t)$, $v(t) = -1.6 \operatorname{sen}(8t)$; d) $v = -1.39\text{ m/s}$, $E_c = 0.72\text{ J}$, $E_p = 0.24\text{ J}$, $E = 0.96\text{ J}$
+*Respuesta:* a) $T = \pi/4\text{ s}$; b) $x(t) = 0.2 \cos(8t)$, $v(t) = -1.6 \sin(8t)$; d) $v = -1.39\text{ m/s}$, $E_c = 0.72\text{ J}$, $E_p = 0.24\text{ J}$, $E = 0.96\text{ J}$
 
 94) Una partícula de $100\text{ g}$ de masa sujeta a un muelle, se desplaza hacia la derecha de su posición de equilibrio $2\text{ cm}$. A continuación se suelta y comienza a oscilar armónicamente a lo largo del eje OX con una frecuencia de $4\text{ s}^{-1}$. Determine:  
 a) Las ecuaciones de la posición y de la velocidad de la partícula, en cualquier instante de tiempo.  
 b) El período de oscilación de la partícula, su aceleración máxima y la fuerza máxima que actúa sobre la misma.  
 c) La constante elástica del muelle así como la energía cinética, la energía potencial y la energía total de la partícula cuando pasa por la posición de equilibrio.  
-*Respuesta:* a) $x(t) = 0.02 \cos(8\pi t)$; $v(t) = -0.02\pi \operatorname{sen}(8\pi t)$; b) $T = 0.25\text{ s}$; $a_{\max} = \pm 12.63\text{ m/s}^2$, $F_{\max} = \pm 1.26\text{ N}$.
+*Respuesta:* a) $x(t) = 0.02 \cos(8\pi t)$; $v(t) = -0.02\pi \sin(8\pi t)$; b) $T = 0.25\text{ s}$; $a_{\max} = \pm 12.63\text{ m/s}^2$, $F_{\max} = \pm 1.26\text{ N}$.
 
 95) Una masa puntual de $10\text{ g}$ está sujeta a un muelle y oscila sobre el eje OX con una frecuencia de $4\text{ Hz}$ y una amplitud de $6\text{ mm}$. Si en el instante inicial la elongación de la partícula es igual a la máxima elongación, determinar:  
 a) Las ecuaciones de la elongación y la velocidad de la masa en cualquier instante de tiempo.  
 b) El período de oscilación de la masa, su aceleración máxima y la fuerza máxima que actúa sobre la misma.  
 c) La constante elástica del muelle, así como la energía cinética, la energía potencial y la energía total de la partícula cuando pasa por el punto de equilibrio.  
-*Respuesta:* a) $x(t) = 0.006 \cos(8\pi t)$, $v(t) = -0.048\pi \operatorname{sen}(8\pi t)$; b) $T = 0.25\text{ s}$, $a_{\max} = 3.80\text{ m/s}^2$
+*Respuesta:* a) $x(t) = 0.006 \cos(8\pi t)$, $v(t) = -0.048\pi \sin(8\pi t)$; b) $T = 0.25\text{ s}$, $a_{\max} = 3.80\text{ m/s}^2$
 
 96) Una masa puntual de $10\text{ g}$ está sujeta a un muelle y oscila sobre el eje OX con una frecuencia de $4\text{ Hz}$ y una amplitud de $6\text{ mm}$. Si en el instante inicial la elongación de la partícula es cero, determinar:  
 a) Las ecuaciones de la elongación y la velocidad de la masa en cualquier instante de tiempo.  
 b) El período de oscilación de la masa, su aceleración máxima y la fuerza máxima que actúa sobre la misma.  
 c) La constante elástica del muelle, así como la energía cinética, la energía potencial y la energía total de la partícula cuando pasa por el punto de equilibrio.  
-*Respuesta:* a) $x(t) = 0.006 \cos(8\pi t - \pi/2)$, $v(t) = -0.048\pi \operatorname{sen}(8\pi t - \pi/2)$; b) $T = 0.25\text{ s}$, $a_{\max} = 3.80\text{ m/s}^2$; c) $k = 6.3\text{ N/m}$, $E_c = 1.13 \times 10^{-4}\text{ J}$
+*Respuesta:* a) $x(t) = 0.006 \cos(8\pi t - \pi/2)$, $v(t) = -0.048\pi \sin(8\pi t - \pi/2)$; b) $T = 0.25\text{ s}$, $a_{\max} = 3.80\text{ m/s}^2$; c) $k = 6.3\text{ N/m}$, $E_c = 1.13 \times 10^{-4}\text{ J}$
 
 97) Un muelle elástico de constante $k = 0.4\text{ N/m}$ está unido a una masa de $m = 25\text{ g}$. En el instante inicial su posición es $x = 5\text{ cm}$ y su velocidad $v = -20\sqrt{3}\text{ cm/s}$. Calcular:  
 a) El período de la oscilación.  
 b) Las ecuaciones de la posición, velocidad y aceleración de este M.A.S.  
 c) El (los) instante(s) en el que el móvil pasa por el origen, $x = 0$, y su velocidad.  
 d) La energía cinética, potencial y total cuando el móvil pasa por la posición $x = -5\text{ cm}$.  
-*Respuesta:* a) $T = 1.5708\text{ s}$; b) $x(t) = 0.1 \cos(4t + \pi/3)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -0.4 \operatorname{sen}(4t + \pi/3)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -1.6 \cos(4t + \pi/3)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$; c) $t = \frac{n\pi}{4} + \frac{\pi}{24}$, $v_{\max} = \pm 0.4\text{ m/s}$; d) $E_p = 5 \times 10^{-4}\text{ J}$, $E = 2 \times 10^{-3}\text{ J}$, $E_c = 1.5 \times 10^{-3}\text{ J}$
+*Respuesta:* a) $T = 1.5708\text{ s}$; b) $x(t) = 0.1 \cos(4t + \pi/3)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -0.4 \sin(4t + \pi/3)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -1.6 \cos(4t + \pi/3)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$; c) $t = \frac{n\pi}{4} + \frac{\pi}{24}$, $v_{\max} = \pm 0.4\text{ m/s}$; d) $E_p = 5 \times 10^{-4}\text{ J}$, $E = 2 \times 10^{-3}\text{ J}$, $E_c = 1.5 \times 10^{-3}\text{ J}$
 
 98) Una partícula de $m = 200\text{ g}$ de masa unida a un muelle horizontal, realiza un movimiento armónico simple siendo la frecuencia angular $\omega = 100\text{ rad/s}$. Sabemos que en el instante $t = 0$, la posición inicial es $-0.5\sqrt{3}\text{ cm}$ y la velocidad inicial de la partícula es $50\text{ cm/s}$.  
 a) Escribir la ecuación del M.A.S.  
@@ -911,7 +911,7 @@ b) La constante elástica del resorte y la energía mecánica del sistema.
 a) Las ecuaciones de la posición, velocidad y aceleración en función del tiempo.  
 b) Valores de $t$ en los que la partícula pasa por el origen.  
 c) Las energías potencial, cinética y total en el instante inicial y en cualquier instante.  
-*Respuesta:* a) $x(t) = 0.20 \cos(12t + \pi/3)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -2.4 \operatorname{sen}(12t + \pi/3)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -28.8 \cos(12t + \pi/3)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$; b) $t = \frac{n\frac{\pi}{2} - \frac{\pi}{3}}{12}$, $n = 1,2,3...$; c) $E_p(t) = 0.864 \cos^2(12t + \pi/3)\text{ J}$, $E_c(t) = 0.864 \operatorname{sen}^2(12t + \pi/3)\text{ J}$, $E_M = 0.864\text{ J}$
+*Respuesta:* a) $x(t) = 0.20 \cos(12t + \pi/3)$, $x = [\text{m}]$, $t = [\text{s}]$; $v(t) = -2.4 \sin(12t + \pi/3)$, $v = [\text{m/s}]$, $t = [\text{s}]$; $a(t) = -28.8 \cos(12t + \pi/3)$, $a = [\text{m/s}^2]$, $t = [\text{s}]$; b) $t = \frac{n\frac{\pi}{2} - \frac{\pi}{3}}{12}$, $n = 1,2,3...$; c) $E_p(t) = 0.864 \cos^2(12t + \pi/3)\text{ J}$, $E_c(t) = 0.864 \sin^2(12t + \pi/3)\text{ J}$, $E_M = 0.864\text{ J}$
 
 101) Un objeto de masa $30\text{ g}$ se encuentra apoyado sobre una superficie horizontal y sujeto a un muelle. Se observa que oscila sobre la superficie, en la dirección del eje OX, siguiendo un M.A.S de frecuencia $5\text{ s}^{-1}$ con una amplitud de $10\text{ cm}$. Si en el instante inicial, la elongación de la partícula es igual a la mitad de la máxima elongación o amplitud, determine:  
 a) Las ecuaciones de la elongación y la velocidad de la masa en cualquier instante de tiempo.  
@@ -926,7 +926,7 @@ c) La energía cinética, potencial y mecánica para $t = 0.5\text{ s}$.
 d) A la vista de los resultados para la energía, ¿puedes concluir algo sobre la posición del cuerpo?  
 *Respuesta:* a) $f = 3.98\text{ Hz}$; b) $k = 125\text{ N/m}$; c) $E_c = 2.75 \times 10^{-3}\text{ J}$, $E_p = 0.6225\text{ J}$; d) La forma de energía más significativa es la potencial, de tal manera que el objeto se encuentra en uno de los extremos de la trayectoria. En este caso, según los cálculos, se encuentra en el extremo superior.
 
-103) Considere una partícula de $100\text{ g}$ de masa, cuya posición respecto del origen de coordenadas viene dada por la función $x(t) = A \operatorname{sen}(\omega t + 3\pi/5)$, donde $x$ se mide en metros y $t$ en segundos (MAS a lo largo del eje X en torno del origen de coordenadas). La partícula completa 3 oscilaciones o ciclos cada $6\text{ s}$. En el instante inicial ($t = 0\text{ s}$), la partícula se encuentra a $+3\text{ cm}$ del origen de coordenadas.  
+103) Considere una partícula de $100\text{ g}$ de masa, cuya posición respecto del origen de coordenadas viene dada por la función $x(t) = A \sin(\omega t + 3\pi/5)$, donde $x$ se mide en metros y $t$ en segundos (MAS a lo largo del eje X en torno del origen de coordenadas). La partícula completa 3 oscilaciones o ciclos cada $6\text{ s}$. En el instante inicial ($t = 0\text{ s}$), la partícula se encuentra a $+3\text{ cm}$ del origen de coordenadas.  
 a) ¿Cuánto valen la frecuencia angular y la amplitud de las oscilaciones? Exprese la posición de la partícula en un instante de tiempo cualquiera, esto es, la función $x(t)$.  
 b) Calcule la posición, la velocidad y la aceleración de la partícula en el instante de tiempo $t = 0.4\text{ s}$.  
 c) ¿Cuánto vale la constante elástica asociada al muelle que origina este movimiento armónico? Calcule la energía total, la energía potencial y la energía cinética de la partícula en el instante de tiempo $t = 0.4\text{ s}$.  
