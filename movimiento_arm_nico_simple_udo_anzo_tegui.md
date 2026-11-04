@@ -43,9 +43,9 @@ A $F_s$ se le llama fuerza restauradora porque siempre se dirige hacia la posici
 
 Al aplicar la segunda ley de Newton al movimiento del bloque, con la ecuación 1 que proporciona la fuerza neta en la dirección $x$, se obtiene:
 
-$-k\ x = m\ a_x$
+$-k\ x = m\ a_x$     (1)
 
-$\displaystyle a_x = -\frac{k}{m} x$ (2)
+$\displaystyle a_x = -\frac{k}{m} x$     (2)
 
 Es decir, la aceleración del bloque es proporcional a su posición, y la dirección de la aceleración es opuesta a la dirección del desplazamiento del bloque desde el equilibrio. Se dice que los sistemas que se comportan de esta forma exhiben movimiento armónico simple. Un objeto se mueve con movimiento armónico simple siempre que su aceleración es proporcional a su posición y se dirige en sentido opuesto al desplazamiento desde el equilibrio.
 
@@ -57,21 +57,21 @@ Si el bloque en la figura 1 se desplaza a una posición $x = A$ y se libera desd
 
 El movimiento descrito en la sección precedente se presenta con tanta frecuencia que se considera el modelo de partícula en movimiento armónico simple para representar tales situaciones. Con el fin de elaborar una representación matemática para este modelo, primero se reconoce que el bloque es una partícula bajo una fuerza neta, como se describe en la ecuación (1). Por lo general se elegirá $x$ como el eje a lo largo del que se presenta la oscilación; por eso, en esta explicación se eliminará la notación de subíndice $x$. Recuerde que, por definición, $a = \frac{dv}{dt} = \frac{d^2x}{dt^2}$, y así la ecuación se puede expresar como:
 
-$\displaystyle\frac{d^2x}{dt^2} = -\frac{k}{m} x $(3)
+$\displaystyle\frac{d^2x}{dt^2} = -\frac{k}{m} x $     (3)
 
 Si la relación $k/m$ se indica con el símbolo $\omega^2$ (se elige $\omega^2$ en lugar de $\omega$ para que la solución que se desarrolle a continuación sea más simple en forma), en tal caso:
 
-$\displaystyle\omega^2 = \frac{k}{m} $(4)
+$\displaystyle\omega^2 = \frac{k}{m} $     (4)
 
 y la ecuación (3) se puede escribir en la forma:
 
-$\frac{d^2x}{dt^2} = -\omega^2 x $ (5)
+$\frac{d^2x}{dt^2} = -\omega^2 x $     (5)
 
 Lo que necesitamos ahora es una solución para la ecuación (5), es decir, una función $x(t)$ que satisfaga esta ecuación diferencial de segundo orden.
 
 La solución general de la ecuación diferencial es:
 
-$$x(t) = c_1 \cos(\omega t) + c_2 \sin(\omega t) $$          (6)
+$$x(t) = c_1 \cos(\omega t) + c_2 \sin(\omega t) $$     (6)
 
 donde $c_1$ y $c_2$ son constantes arbitrarias. Se determinan por las condiciones iniciales.
 
