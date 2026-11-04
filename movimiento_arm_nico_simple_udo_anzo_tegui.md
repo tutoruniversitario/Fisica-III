@@ -39,9 +39,9 @@ Se puede entender cualitativamente el movimiento oscilatorio del bloque en la fi
 
 $$F_s = -k\ x$$ (1)
 
-A $F_s$ se le llama fuerza restauradora porque siempre se dirige hacia la posición de equilibrio y, en consecuencia, es opuesta al desplazamiento del bloque desde el equilibrio. Es decir, cuando el bloque se desplaza hacia la derecha de x = 0 en la figura 1a, la posición es positiva y la fuerza restauradora se dirige hacia la izquierda. La figura 1b muestra al bloque en $x = 0$, donde la fuerza en el bloque es cero. Cuando el bloque se desplaza a la izquierda de $x = 0$, como en la figura 1c, la posición es negativa y la fuerza restauradora se dirige hacia la derecha.
+A $F_s$ se le llama fuerza restauradora porque siempre se dirige hacia la posición de equilibrio y, en consecuencia, es opuesta al desplazamiento del bloque desde el equilibrio. Es decir, cuando el bloque se desplaza hacia la derecha de $x = 0$ en la figura 1a, la posición es positiva y la fuerza restauradora se dirige hacia la izquierda. La figura 1b muestra al bloque en $x = 0$, donde la fuerza en el bloque es cero. Cuando el bloque se desplaza a la izquierda de $x = 0$, como en la figura 1c, la posición es negativa y la fuerza restauradora se dirige hacia la derecha.
 
-Al aplicar la segunda ley de Newton al movimiento del bloque, con la ecuación 1 que proporciona la fuerza neta en la dirección x, se obtiene:
+Al aplicar la segunda ley de Newton al movimiento del bloque, con la ecuación 1 que proporciona la fuerza neta en la dirección $x$, se obtiene:
 
 $-k\ x = m\ a_x$
 
@@ -57,15 +57,15 @@ Si el bloque en la figura 1 se desplaza a una posición $x = A$ y se libera desd
 
 El movimiento descrito en la sección precedente se presenta con tanta frecuencia que se considera el modelo de partícula en movimiento armónico simple para representar tales situaciones. Con el fin de elaborar una representación matemática para este modelo, primero se reconoce que el bloque es una partícula bajo una fuerza neta, como se describe en la ecuación (1). Por lo general se elegirá $x$ como el eje a lo largo del que se presenta la oscilación; por eso, en esta explicación se eliminará la notación de subíndice $x$. Recuerde que, por definición, $a = \frac{dv}{dt} = \frac{d^2x}{dt^2}$, y así la ecuación se puede expresar como:
 
-$$\frac{d^2x}{dt^2} = -\frac{k}{m} x \tag{3}$$
+$\displaystyle\frac{d^2x}{dt^2} = -\frac{k}{m} x $(3)
 
 Si la relación $k/m$ se indica con el símbolo $\omega^2$ (se elige $\omega^2$ en lugar de $\omega$ para que la solución que se desarrolle a continuación sea más simple en forma), en tal caso:
 
-$$\omega^2 = \frac{k}{m} \tag{4}$$
+$\displaystyle\omega^2 = \frac{k}{m} $(4)
 
 y la ecuación (3) se puede escribir en la forma:
 
-$$\frac{d^2x}{dt^2} = -\omega^2 x \tag{5}$$
+$\frac{d^2x}{dt^2} = -\omega^2 x $ (5)
 
 Lo que necesitamos ahora es una solución para la ecuación (5), es decir, una función $x(t)$ que satisfaga esta ecuación diferencial de segundo orden.
 
