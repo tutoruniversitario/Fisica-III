@@ -45,7 +45,7 @@ Al aplicar la segunda ley de Newton al movimiento del bloque, con la ecuación 1
 
 $-k\ x = m\ a_x$
 
-$\displaystyle a_x = -\frac{k}{m} x\ \ \ \ \ \ \ \ \ \ (2)$
+$\displaystyle a_x = -\frac{k}{m} x\ \ \ \ \ \ \ \ \ \ \textcolor{red}{(2)}$
 
 Es decir, la aceleración del bloque es proporcional a su posición, y la dirección de la aceleración es opuesta a la dirección del desplazamiento del bloque desde el equilibrio. Se dice que los sistemas que se comportan de esta forma exhiben movimiento armónico simple. Un objeto se mueve con movimiento armónico simple siempre que su aceleración es proporcional a su posición y se dirige en sentido opuesto al desplazamiento desde el equilibrio.
 
