@@ -65,7 +65,7 @@ $\displaystyle\omega^2 = \frac{k}{m} $(4)
 
 y la ecuación (3) se puede escribir en la forma:
 
-$\frac{d^2x}{dt^2} = -\omega^2 x $(5)
+$\displaystyle\frac{d^2x}{d\ t^2} = -\omega^2 x $(5)
 
 Lo que necesitamos ahora es una solución para la ecuación (5), es decir, una función $x(t)$ que satisfaga esta ecuación diferencial de segundo orden.
 
