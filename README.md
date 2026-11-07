@@ -1,4 +1,4 @@
-# 🌊 Física III: Oscilaciones y Ondas
+# Física III: Oscilaciones y Ondas
 
 ## 📌 Contenido de la asignatura
 
