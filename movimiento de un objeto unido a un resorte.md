@@ -1,7 +1,3 @@
-# Movimiento oscilatorio
-
-## Movimiento armónico simple (Oscilaciones libres)
-
 ### MOVIMIENTO DE UN OBJETO UNIDO A UN RESORTE
 
 Como un modelo de movimiento armónico simple considere un bloque de masa $m$ unido al extremo de un resorte, con el bloque libre de moverse sobre una superficie horizontal sin fricción (figura 1). Cuando el resorte no está estirado ni comprimido, el bloque queda en reposo, en la posición llamada posición de equilibrio del sistema, que se identifica como $x = 0$. Se sabe por la experiencia que tal sistema oscila de atrás para adelante si se perturba desde su posición de equilibrio.
