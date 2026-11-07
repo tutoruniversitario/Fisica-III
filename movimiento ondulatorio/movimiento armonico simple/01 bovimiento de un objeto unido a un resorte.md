@@ -1,4 +1,5 @@
 # Movimiento Oscilatorio
+<img width="879" height="612" alt="image" src="https://github.com/user-attachments/assets/c69959ea-7345-4cd0-973e-afecf697e9ed" />
 
 ## Índice
 
