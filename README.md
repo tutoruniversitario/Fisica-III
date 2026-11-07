@@ -2,7 +2,7 @@
 
 ## 📌 Contenido de la asignatura
 
-### OSCILACIONES MECANICAS
+### MOVIMIENTO OSCILATORIO
 * **Movimiento Armónico Simple (MAS)**
   * Movimiento de un objeto unido a un resorte
   *    Partícula en movimiento armónico simple
