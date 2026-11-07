@@ -1,7 +1,3 @@
-# Movimiento oscilatorio
-
-## Movimiento armónico simple (Oscilaciones libres)
-
 ### Partícula en movimiento armónico simple
 
 El movimiento descrito en la sección precedente se presenta con tanta frecuencia que se considera el modelo de partícula en movimiento armónico simple para representar tales situaciones. Con el fin de elaborar una representación matemática para este modelo, primero se reconoce que el bloque es una partícula bajo una fuerza neta, como se describe en la ecuación $\color{red}{(1)}$. Por lo general se elegirá $x$ como el eje a lo largo del que se presenta la oscilación; por eso, en esta explicación se eliminará la notación de subíndice $x$. Recuerde que, por definición, $\displaystyle a = \frac{dv}{dt} = \frac{d^{2}x}{dt^{2}}$, y así la ecuación se puede expresar como
