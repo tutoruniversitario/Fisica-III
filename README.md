@@ -37,4 +37,3 @@
   * Cálculo de la rapidez de onda
   * Cálculo de la tensión en la cuerda
   * Rapidez de transferencia de energía mediante ondas sinusoidales en cuerdas
-  * 
