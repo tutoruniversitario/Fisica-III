@@ -4,7 +4,7 @@
 
 ### MOVIMIENTO OSCILATORIO
 * **Movimiento Armónico Simple (MAS)**
-  * Movimiento de un objeto unido a un resorte (https://github.com/tutoruniversitario/Fisica-III/blob/3db252d85f5e4e4c647f3842a4860b4c75395d95/movimiento%20de%20un%20objeto%20unido%20a%20un%20resorte.md)
+  * Movimiento de un objeto unido a un resorte(https://github.com/tutoruniversitario/Fisica-III/blob/3db252d85f5e4e4c647f3842a4860b4c75395d95/movimiento%20de%20un%20objeto%20unido%20a%20un%20resorte.md)
   *    Partícula en movimiento armónico simple
   *    Posición, velocidad y aceleración en función del tiempo
   *    Elongación máxima, velocidad máxima y aceleración máxima
