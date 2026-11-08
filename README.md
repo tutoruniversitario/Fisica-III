@@ -16,15 +16,15 @@
   * [Energía del oscilador armónico simple]
 
 * **Movimiento amortiguado**
-  * IDENTIFICACIÓN DEL TIPO DE MOVIMIENTO
-  * SISTEMA CRÍTICAMENTE AMORTIGUADO
-  * SISTEMA SOBREAMORTIGUADO
-  * SISTEMA SUBAMORTIGUADO
-  * VARIACIÓN DE LA AMPLITUD CON EL TIEMPO
-  * ECUACIÓN DE MOVIMIENTO
-  * ENERGÍA EN EL MOVIMIENTO OSCILATORIO AMORTIGUADO
-  * OSCILACIONES FORZADAS
-  * RESONANCIA
+  * Identificación del tipo de movimiento
+  * Sistema críticamente amortiguado
+  * Sistema sobreamortiguado
+  * Sistema subamortiguado
+  * Variación de la amplitud con el tiempo
+  * Ecuación de movimiento
+  * Energía en el movimiento oscilatorio amortiguado
+  * Oscilaciones forzadas
+  * Resonancia
 ---
 
 ### MOVIMIENTO ONDULATORIO
