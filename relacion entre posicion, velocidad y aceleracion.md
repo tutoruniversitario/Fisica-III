@@ -1,7 +1,3 @@
-# Movimiento Oscilatorio
-
-## Movimiento Armónico Simple (Oscilaciones Libres)
-
 ### Relación entre posición, velocidad y aceleración
 
 #### Relación entre la posición y la aceleración en el movimiento armónico simple
@@ -116,7 +112,7 @@ $$
 \displaystyle a = \omega\sqrt{\omega^2 A^2 - v^2} \quad \color{red}{(28)}
 $$
 
-## Bloque de Ejercicios (Páginas 67 - 70)
+### EJERCICIOS
 
 ### **EJERCICIO 55.**
 
