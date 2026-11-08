@@ -1,7 +1,3 @@
-# Movimiento Oscilatorio
-
-## Movimiento Armónico Simple (Oscilaciones Libres)
-
 ### Elongación máxima, velocidad máxima y aceleración máxima
 
 A partir de la ecuación $\displaystyle \color{red}{(14)}$ se ve que, puesto que las funciones seno y coseno oscilan entre $\displaystyle \pm 1$, los valores extremos de la velocidad $\displaystyle v$ son $\displaystyle \pm\omega A$. Del mismo modo, la ecuación $\displaystyle \color{red}{(15)}$ muestra que los valores extremos de la aceleración $\displaystyle a$ son $\displaystyle \pm\omega^2 A$. En consecuencia, los valores máximos de las magnitudes de la velocidad y la aceleración son:
