@@ -89,7 +89,7 @@ elegir como ángulo de fase el que cumpla las condiciones:
 
 ---
 
-EJERCICIOS
+### EJERCICIOS
 
 ### **EJERCICIO 16.**
 Se hace oscilar verticalmente un cuerpo de masa $\displaystyle 80\text{ g}$ que está colgado de un muelle en hélice de constante elástica $\displaystyle 2\text{ N/m}$. Si la amplitud de la oscilación es de $\displaystyle 10\text{ cm}$, ¿cuál será la expresión de su elongación en función del tiempo?
