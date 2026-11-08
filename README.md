@@ -7,7 +7,7 @@
   * [Movimiento de un objeto unido a un resorte](https://github.com/tutoruniversitario/Fisica-III/blob/3db252d85f5e4e4c647f3842a4860b4c75395d95/movimiento%20de%20un%20objeto%20unido%20a%20un%20resorte.md)
   *    [Partícula en movimiento armónico simple](https://github.com/tutoruniversitario/Fisica-III/blob/470b34699d7453e4f9d3b06ac69935a1dbdcb7d5/particula%20en%20movimiento%20armonico%20simple.md)
   *    [Posición, velocidad y aceleración en función del tiempo](https://github.com/tutoruniversitario/Fisica-III/blob/2569a43f6f2763ed90b871783749e7b8af047ce5/Posicion%2C%20velocidad%20y%20aceleracion%20en%20funcion%20del%20tiempo.md)
-  *    [Elongación máxima, velocidad máxima y aceleración máxima]
+  *    [Elongación máxima, velocidad máxima y aceleración máxima](https://github.com/tutoruniversitario/Fisica-III/blob/4f19105766343a5b429499c5d2a0ab67a314c4f7/elongacion%20maxima%2C%20velocidad%20maxima%20y%20aceleracion%20maxima.md)
   *    [Relación entre posición, velocidad y aceleración](https://github.com/tutoruniversitario/Fisica-III/blob/d57a6cb46e51fff9366fc354c3f67944a70331f7/relacion%20entre%20posicion%2C%20velocidad%20y%20aceleracion.md)
   *    [Problemas que involucran gráficas]
   *    [Conocida la ecuación del movimiento]
