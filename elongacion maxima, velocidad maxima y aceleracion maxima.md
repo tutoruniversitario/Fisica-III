@@ -20,7 +20,7 @@ $$
 
 ---
 
-## Bloque de Ejercicios (Páginas 50 - 65)
+### EJERCICIOS
 
 ### **EJERCICIO 38.**
 
