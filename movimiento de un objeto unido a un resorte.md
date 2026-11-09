@@ -1,6 +1,7 @@
 ### MOVIMIENTO DE UN OBJETO UNIDO A UN RESORTE
 
 Como un modelo de movimiento armónico simple considere un bloque de masa $m$ unido al extremo de un resorte, con el bloque libre de moverse sobre una superficie horizontal sin fricción (figura 1). Cuando el resorte no está estirado ni comprimido, el bloque queda en reposo, en la posición llamada posición de equilibrio del sistema, que se identifica como $x = 0$. Se sabe por la experiencia que tal sistema oscila de atrás para adelante si se perturba desde su posición de equilibrio.
+
 <img width="316" height="366" alt="image" src="https://github.com/user-attachments/assets/45b86cf7-519d-4245-9698-952d114623d2" />
 
 Se puede entender cualitativamente el movimiento oscilatorio del bloque en la figura 1 al recordar primero que, cuando el bloque se desplaza a una posición $x$, el resorte ejerce sobre el bloque una fuerza que es proporcional a la posición y se conoce por la ley de Hooke:
