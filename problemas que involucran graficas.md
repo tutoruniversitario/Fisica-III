@@ -23,7 +23,7 @@ c) $\displaystyle T = 2.00\text{ s}$
 
 Un cuerpo se mueve según un movimiento armónico simple según la gráfica de la figura.
 
-<img width="253" height="152" alt="image" src="https://github.com/user-attachments/assets/15f26330-30c3-41cc-9e94-b25f5286dc51" />
+<img width="380" height="228" alt="image" src="https://github.com/user-attachments/assets/15f26330-30c3-41cc-9e94-b25f5286dc51" />
 
 
 A la vista de ella, di si son verdaderas o falsas las siguientes afirmaciones:
@@ -46,7 +46,7 @@ e) Falso
 
 La siguiente gráfica representa la elongación en función del tiempo de un cuerpo que se comporta según un movimiento armónico simple:
 
-<img width="208" height="151" alt="image" src="https://github.com/user-attachments/assets/4f5dcf43-fe4e-4032-bb2e-f485a8b0a63c" />
+<img width="312" height="226" alt="image" src="https://github.com/user-attachments/assets/4f5dcf43-fe4e-4032-bb2e-f485a8b0a63c" />
 
 
 Determinar la amplitud, el periodo, la frecuencia, la frecuencia angular y la fase inicial del movimiento.
@@ -77,7 +77,7 @@ desfase: $\displaystyle \pi/2\text{ rad}$
 
 La gráfica de la figura corresponde a un cuerpo de 150 g de masa que realiza un movimiento armónico simple (M.A.S).
 
-<img width="217" height="152" alt="image" src="https://github.com/user-attachments/assets/44e7e2a7-01ff-4424-96e0-201e73cd13da" />
+<img width="325" height="228" alt="image" src="https://github.com/user-attachments/assets/44e7e2a7-01ff-4424-96e0-201e73cd13da" />
 
 Se pide calcular:
 a) La velocidad inicial del cuerpo.
