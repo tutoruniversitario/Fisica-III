@@ -6,16 +6,11 @@
 
 ### EJERCICIO 60.
 
-En la figura se muestra el desplazamiento en función del tiempo. Calcule: 
-<img width="395" height="292" alt="image" src="https://github.com/user-attachments/assets/5f5a4bed-da37-424b-8ae1-2195fe334f22" />
+En la figura se muestra el desplazamiento en función del tiempo. Calcule:
 a) la frecuencia; 
 b) la amplitud y 
 c) el periodo.
-
-$$\displaystyle x\text{ (m)}$$
-$$\displaystyle 0.20 \quad \text{---}\quad \text{cresta}$$
-$$\displaystyle 1.0 \quad 2.0 \quad 3.0 \quad 4.0 \quad t\text{ (s)}$$
-$$\displaystyle -0.20$$
+<img width="197" height="146" alt="image" src="https://github.com/user-attachments/assets/5f5a4bed-da37-424b-8ae1-2195fe334f22" />
 
 **Respuesta:** 
 a) $\displaystyle f = 0.5\text{ Hz}$; 
@@ -28,10 +23,8 @@ c) $\displaystyle T = 2.00\text{ s}$
 
 Un cuerpo se mueve según un movimiento armónico simple según la gráfica de la figura.
 
-$$\displaystyle x\text{ (m)}$$
-$$\displaystyle +3$$
-$$\displaystyle 0 \quad 5 \quad 10 \quad t\text{ (s)}$$
-$$\displaystyle -3$$
+<img width="506" height="305" alt="image" src="https://github.com/user-attachments/assets/15f26330-30c3-41cc-9e94-b25f5286dc51" />
+
 
 A la vista de ella, di si son verdaderas o falsas las siguientes afirmaciones:
 a) Cada dos segundos el cuerpo está en el mismo estado vibracional.
