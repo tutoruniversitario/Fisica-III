@@ -1,12 +1,13 @@
-# MOVIMIENTO ARMÓNICO SIMPLE (OSCILACIONES LIBRES)
-
 ## Problemas que involucran gráficas
 
 ---
 
+### EJERCICIOS
+
 ### EJERCICIO 60.
 
 En la figura se muestra el desplazamiento en función del tiempo. Calcule: 
+<img width="395" height="292" alt="image" src="https://github.com/user-attachments/assets/5f5a4bed-da37-424b-8ae1-2195fe334f22" />
 a) la frecuencia; 
 b) la amplitud y 
 c) el periodo.
