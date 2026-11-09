@@ -23,7 +23,7 @@ c) $\displaystyle T = 2.00\text{ s}$
 
 Un cuerpo se mueve según un movimiento armónico simple según la gráfica de la figura.
 
-<img width="506" height="305" alt="image" src="https://github.com/user-attachments/assets/15f26330-30c3-41cc-9e94-b25f5286dc51" />
+<img width="253" height="152" alt="image" src="https://github.com/user-attachments/assets/15f26330-30c3-41cc-9e94-b25f5286dc51" />
 
 
 A la vista de ella, di si son verdaderas o falsas las siguientes afirmaciones:
@@ -46,10 +46,8 @@ e) Falso
 
 La siguiente gráfica representa la elongación en función del tiempo de un cuerpo que se comporta según un movimiento armónico simple:
 
-$$\displaystyle x\text{ (m)}$$
-$$\displaystyle 5$$
-$$\displaystyle -11 \quad 0 \quad 1 \quad 13 \quad t\text{ (s)}$$
-$$\displaystyle -5$$
+<img width="417" height="303" alt="image" src="https://github.com/user-attachments/assets/4f5dcf43-fe4e-4032-bb2e-f485a8b0a63c" />
+
 
 Determinar la amplitud, el periodo, la frecuencia, la frecuencia angular y la fase inicial del movimiento.
 
