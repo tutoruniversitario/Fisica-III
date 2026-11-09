@@ -77,10 +77,7 @@ desfase: $\displaystyle \pi/2\text{ rad}$
 
 La gráfica de la figura corresponde a un cuerpo de 150 g de masa que realiza un movimiento armónico simple (M.A.S).
 
-$$\displaystyle x\text{ (cm)}$$
-$$\displaystyle 9$$
-$$\displaystyle 0 \quad 2\text{ s} \quad 4\text{ s} \quad t\text{ (s)}$$
-$$\displaystyle -9$$
+<img width="217" height="152" alt="image" src="https://github.com/user-attachments/assets/44e7e2a7-01ff-4424-96e0-201e73cd13da" />
 
 Se pide calcular:
 a) La velocidad inicial del cuerpo.
