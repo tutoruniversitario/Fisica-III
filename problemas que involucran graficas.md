@@ -46,7 +46,7 @@ e) Falso
 
 La siguiente gráfica representa la elongación en función del tiempo de un cuerpo que se comporta según un movimiento armónico simple:
 
-<img width="417" height="303" alt="image" src="https://github.com/user-attachments/assets/4f5dcf43-fe4e-4032-bb2e-f485a8b0a63c" />
+<img width="208" height="151" alt="image" src="https://github.com/user-attachments/assets/4f5dcf43-fe4e-4032-bb2e-f485a8b0a63c" />
 
 
 Determinar la amplitud, el periodo, la frecuencia, la frecuencia angular y la fase inicial del movimiento.
@@ -64,10 +64,7 @@ $\displaystyle \phi = -0.5236\text{ rad}$
 
 Determina las ecuaciones de las gráficas de la figura. Determina también el desfase entre ambos movimientos.
 
-$$\displaystyle x\text{ (cm)}$$
-$$\displaystyle +4$$
-$$\displaystyle 0 \quad 5 \quad 10 \quad t\text{ (s)}$$
-$$\displaystyle -4$$
+<img width="351" height="210" alt="image" src="https://github.com/user-attachments/assets/e7844b00-a479-453b-9a75-058849da3931" />
 
 **Respuesta:** 
 $\displaystyle x_1(t) = 4\cos(0.5\pi \, t + \pi/2)$, 
