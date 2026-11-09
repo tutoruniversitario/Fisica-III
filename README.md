@@ -9,7 +9,7 @@
   *    [Posición, velocidad y aceleración en función del tiempo](https://github.com/tutoruniversitario/Fisica-III/blob/2569a43f6f2763ed90b871783749e7b8af047ce5/Posicion%2C%20velocidad%20y%20aceleracion%20en%20funcion%20del%20tiempo.md)
   *    [Elongación máxima, velocidad máxima y aceleración máxima](https://github.com/tutoruniversitario/Fisica-III/blob/4f19105766343a5b429499c5d2a0ab67a314c4f7/elongacion%20maxima%2C%20velocidad%20maxima%20y%20aceleracion%20maxima.md)
   *    [Relación entre posición, velocidad y aceleración](https://github.com/tutoruniversitario/Fisica-III/blob/d57a6cb46e51fff9366fc354c3f67944a70331f7/relacion%20entre%20posicion%2C%20velocidad%20y%20aceleracion.md)
-  *    [Problemas que involucran gráficas]
+  *    [Problemas que involucran gráficas](https://github.com/tutoruniversitario/Fisica-III/blob/abe411fa8393dffef65bea4f35b252b714d6d9ca/problemas%20que%20involucran%20graficas.md)
   *    [Conocida la ecuación del movimiento]
   * [El péndulo simple]
   * [Circuitos LC]
