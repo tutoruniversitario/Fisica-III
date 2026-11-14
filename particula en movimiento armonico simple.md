@@ -26,7 +26,7 @@ $$
 \displaystyle x(t) = c_{1} \cos(\omega t) + c_{2} \sin(\omega t) \quad \color{red}{(6)}
 $$
 
-donde $c_{1}$ y $c_{2}$ son constantes arbitrarias que se determinan aplicando las condiciones iniciales. Este es, obviamente, un movimiento periódico, por la naturaleza de las funciones seno y coseno. Por comodidad, preferimos expresar esta solución en términos de una sola función trigonométrica como
+donde $c_{1}$ y $c_{2}$ son constantes que se determinan aplicando las condiciones iniciales. Este es, obviamente, un movimiento periódico, por la naturaleza de las funciones seno y coseno. Por comodidad, preferimos expresar esta solución en términos de una sola función trigonométrica como
 
 $$
 \displaystyle x(t) = A \cos(\omega t + \phi) \quad \color{red}{(7)}
