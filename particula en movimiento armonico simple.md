@@ -115,7 +115,7 @@ Un oscilador armónico tiene una masa de $0.500\text{ kg}$ y un resorte ideal co
 ---
 
 #### EJERCICIO 6.
-Si un objeto en una superficie horizontal sin fricción se une a un resorte, se desplaza y después se suelta, oscilará. Si se desplaza $0.120\text{ m}$ de su posición de equilibrio y se suelta con rapidez inicial cero, después de $0.800\text{ s}$ su desplazamiento es de $-0.120\text{ m}$ en el lado opuesto, habiendo pasado por la posición de equilibrio una vez. Calcule: a) la amplitud; b) el periodo; c) la frecuencia.
+Si un objeto en una superficie horizontal sin fricción se une a un resorte, se desplaza y después se suelta, oscilará. Si se desplaza $0.120\text{ m}$ de su posición de equilibrio y se suelta con rapidez inicial cero, después de $0.800\text{ s}$ su desplazamiento es de $0.120\text{ m}$ en el lado opuesto, habiendo pasado por la posición de equilibrio una vez. Calcule: a) la amplitud; b) el periodo; c) la frecuencia.
 
 **Respuesta:** a) $\displaystyle A = 0.120\text{ m}$; b) $\displaystyle T = 1.600\text{ s}$; c) $\displaystyle f = 0.625\text{ Hz}$
 
