@@ -1,6 +1,6 @@
 ### Partícula en movimiento armónico simple
 
-El movimiento descrito en la sección precedente se presenta con tanta frecuencia que se considera el modelo de partícula en movimiento armónico simple para representar tales situaciones. Con el fin de elaborar una representación matemática para este modelo, primero se reconoce que el bloque es una partícula bajo una fuerza neta, como se describe en la ecuación $\color{red}{(1)}$. Por lo general se elegirá $x$ como el eje a lo largo del que se presenta la oscilación; por eso, en esta explicación se eliminará la notación de subíndice $x$. Recuerde que, por definición, $\displaystyle a = \frac{dv}{dt} = \frac{d^{2}x}{dt^{2}}$, y así la ecuación se puede expresar como
+El movimiento descrito en la sección precedente se presenta con tanta frecuencia que se considera el modelo de __partícula en movimiento armónico simple__ para representar tales situaciones. Con el fin de elaborar una representación matemática para este modelo, primero se reconoce que el bloque es una partícula bajo una fuerza neta, como se describe en la ecuación $\color{red}{(1)}$. Por lo general se elegirá $x$ como el eje a lo largo del que se presenta la oscilación; por eso, en esta explicación se eliminará la notación de subíndice $x$. Recuerde que, por definición, $\displaystyle a = \frac{dv}{dt} = \frac{d^{2}x}{dt^{2}}$, y así la ecuación se puede expresar como
 
 $$
 \displaystyle \frac{d^{2}x}{dt^{2}} = -\frac{k}{m} x \quad \color{red}{(3)}
@@ -33,7 +33,7 @@ $$
 \displaystyle x(t) = A \cos(\omega t + \phi) \quad \color{red}{(7)}
 $$
 
-Dado que el coseno de un ángulo no puede ser mayor que $1$, el factor $A$ corresponde al desplazamiento máximo llamado amplitud de las oscilaciones. La masa oscilará continuamente entre las posiciones $x = A$ y $x = -A$.
+Dado que el coseno de un ángulo no puede ser mayor que $1$, el factor $A$ corresponde al desplazamiento máximo llamado __amplitud__ de las oscilaciones. La masa oscilará continuamente entre las posiciones $x = A$ y $x = -A$.
 
 El tiempo durante el cual se completa una oscilacion (ciclo o vibración) se llama periodo del movimiento
 
@@ -71,7 +71,7 @@ $$
 \displaystyle \omega = \sqrt{\frac{k}{m}} \quad \color{red}{(13)}
 $$
 
-se conoce como frecuencia angular natural o simplemente frecuencia natural del sistema.
+se conoce como __frecuencia angular natural__ o simplemente frecuencia natural del sistema.
 
 ---
 
