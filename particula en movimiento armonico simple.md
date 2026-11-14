@@ -85,8 +85,7 @@ Una masa que pesa $4\text{ libras}$ se une a un resorte cuya constante es $16\te
 ---
 
 #### EJERCICIO 2.
-a) ¿Qué masa debes unir a un muelle de constante $k = 37\text{ N/m}$ para que la frecuencia de oscilación del sistema sea de $1\text{ Hz}$?  
-b) ¿Y para que sea de $4\text{ Hz}$?
+a) ¿Qué masa debes unir a un muelle de constante $k = 37\text{ N/m}$ para que la frecuencia de oscilación del sistema sea de $1\text{ Hz}$? b) ¿Y para que sea de $4\text{ Hz}$?
 
 **Respuesta:** a) $\displaystyle m = 0.9372\text{ kg}$; b) $\displaystyle m = 0.0586\text{ kg}$
 
