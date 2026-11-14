@@ -35,13 +35,13 @@ $$
 
 Dado que el coseno de un ángulo no puede ser mayor que $1$, el factor $A$ corresponde al desplazamiento máximo llamado amplitud de las oscilaciones. La masa oscilará continuamente entre las posiciones $x = A$ y $x = -A$.
 
-El tiempo durante el cual se completa un ciclo se llama periodo del movimiento
+El tiempo durante el cual se completa una oscilacion (ciclo o vibración) se llama periodo del movimiento
 
 $$
 \displaystyle T = \frac{2\pi}{\omega} \quad \color{red}{(8)}
 $$
 
-Si se conoce el número de oscilaciones o ciclos ($n$) de la partícula en un lapso de tiempo ($t$):
+Si se conoce el número de oscilaciones ($n$) de la partícula en un lapso de tiempo ($t$):
 
 $$
 \displaystyle T = \frac{t}{n} \quad \color{red}{(9)}
